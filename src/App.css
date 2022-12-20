@@ -1,0 +1,18 @@
+.Header {
+  background-color: #E74C3C;
+  text-transform: capitalize;
+  text-align: center;
+  color: #ECF0F1;
+  padding: 100px 0 100px 0;
+
+}
+
+.main {
+  letter-spacing: 5px;
+
+}
+
+.cd {
+  height: 50vh;
+  /* overflow-y: scroll; */
+}
